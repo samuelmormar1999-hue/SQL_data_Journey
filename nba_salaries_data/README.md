@@ -8,3 +8,12 @@ The project includes:
 - A relational database schema
 - SQL scripts for table creation
 - A structured workflow ready for data analysis and Python integration
+
+
+## Business Questions Answered
+
+- Who are the highest paid NBA players?
+- Which teams have the highest average salaries?
+- Which teams spend the most on player salaries?
+- How are salaries distributed across players?
+- How many players are registered per team?
