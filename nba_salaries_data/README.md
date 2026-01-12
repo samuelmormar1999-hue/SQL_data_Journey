@@ -9,6 +9,14 @@ The project includes:
 - SQL scripts for table creation
 - A structured workflow ready for data analysis and Python integration
 
+## Project Structure
+
+- build_nba_database.py → creates the SQLite database and loads data
+- nba_data.py → cleans raw NBA salary data
+- business_queries.sql → SQL queries for business analysis
+- nba_salaries.db → SQLite database
+- nba_salaries_clean.csv → cleaned dataset
+
 
 ## Business Questions Answered
 
