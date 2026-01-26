@@ -65,5 +65,4 @@ It focuses on clarity, correctness, and practical problem-solving rather than th
 **Samuel**
 
 
-## Repository Structure
 
